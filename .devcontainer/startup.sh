@@ -1,2 +1,2 @@
 pip install uv
-uv syncuv 
+uv sync
