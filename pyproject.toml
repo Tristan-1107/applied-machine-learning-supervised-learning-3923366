@@ -2,4 +2,12 @@
 name = "applied-machine-learning-supervised-learning-3923366"
 version = "0.1.0"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+    "flask>=3.1.1",
+    "jupyterlab>=4.4.3",
+    "matplotlib>=3.10.3",
+    "pandas>=2.3.0",
+    "requests>=2.32.3",
+    "scikit-learn>=1.7.0",
+    "xgboost>=3.0.2",
+]
