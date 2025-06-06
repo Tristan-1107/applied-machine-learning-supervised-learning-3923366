@@ -49,8 +49,8 @@
 	},
 	"remoteUser": "vscode",
 	// Update welcome text and set terminal prompt to '$ '
-	//"onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc",
-	  "onCreateCommand" : "[ -f pyproject.toml ] && uv sync; echo PS1='\"$ \"' >> ~/.bashrc", //Set Terminal Prompt to $
+	"onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc",
+	//  "onCreateCommand" : "[ -f pyproject.toml ] && uv sync; echo PS1='\"$ \"' >> ~/.bashrc", //Set Terminal Prompt to $
 
 	// Pull all branches
 	"postAttachCommand": "git pull --all",
