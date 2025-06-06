@@ -38,14 +38,20 @@
 			"extensions": [
 				"linkedinlearning.linkedinlearning-vscode-theme",
 				"ms-python.python",
+				"ms-toolsai.jupyter",
 				"ms-python.vscode-pylance"
 				// Additional Extensions Here
-			]
+			],
+			"features": {
+				"ghcr.io/va-h/devcontainers-features/uv:1": {}
+			},
 		}
 	},
 	"remoteUser": "vscode",
 	// Update welcome text and set terminal prompt to '$ '
-	"onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc",
+	//"onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc",
+	  "onCreateCommand" : "[ -f pyproject.toml ] && uv sync; echo PS1='\"$ \"' >> ~/.bashrc", //Set Terminal Prompt to $
+
 	// Pull all branches
 	"postAttachCommand": "git pull --all",
 	"postCreateCommand": "sh .devcontainer/startup.sh"
