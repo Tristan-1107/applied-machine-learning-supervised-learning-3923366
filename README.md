@@ -5,6 +5,9 @@ This is the repository for the LinkedIn Learning course `Applied Machine Learnin
 
 _See the readme file in the main branch for updated instructions and information._
 
+## Course Description
+
+In this course, Matt Harrison—a Python and data science corporate trainer, author, speaker, consultant, and advisor—shows you how to apply supervised learning techniques to real-world problems, focusing on both classification and regression tasks. Start with basic models like linear regression, and then advance to more complex algorithms like decision trees and XGBoost. Plus, explore model evaluation, optimization, and deployment techniques. With practical challenges and solutions, this course prepares you to apply supervised learning to solve problems in industries like healthcare, finance, and real estate.
 
 ## Installation
 
@@ -54,7 +57,7 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHDOm3DVzUfqg/learning-public-crop_675_1200/B4EZUpkmAfGgAY-/0/1740159214378?e=2147483647&v=beta&t=yfB6yVe8_8VeRs3WUksKIF7mdXocVnPFGQPOK-3-UFA
+[lil-course-url]: https://www.linkedin.com/learning/applied-machine-learning-supervised-learning
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHnyPVNUaOy3Q/learning-public-crop_675_1200/B4EZg0emXrGwAc-/0/1753227094211?e=2147483647&v=beta&t=xLRcOUuKlQKW3vz0zPVKIClZLje3JrJu3z9JhP0PsW0
 
 
