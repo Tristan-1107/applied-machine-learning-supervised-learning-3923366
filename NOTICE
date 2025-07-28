@@ -5,7 +5,53 @@ Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+Scikit‑learn
+https://github.com/scikit‑learn/scikit‑learn
+License: BSD‑3‑Clause
+https://opensource.org/licenses/BSD-3-Clause 
+
+Flask
+https://github.com/pallets/flask
+License: BSD‑3‑Clause
+https://opensource.org/licenses/BSD-3-Clause 
+
+SHAP
+https://github.com/slundberg/shap
+License: MIT
+https://opensource.org/licenses/MIT 
+
+Matplotlib
+https://github.com/matplotlib/matplotlib
+License: PSF‑2.0 (Python Software Foundation)
+https://opensource.org/licenses/PSF-2.0
+
+XGBoost
+https://github.com/dmlc/xgboost
+License: Apache‑2.0
+https://www.apache.org/licenses/LICENSE-2.0/
+
+xlrd
+https://github.com/python-excel/xlrd
+License: BSD‑3‑Clause
+https://opensource.org/licenses/BSD-3-Clause 
+
+JupyterLab
+https://github.com/jupyterlab/jupyterlab
+License: BSD‑3‑Clause
+https://opensource.org/licenses/BSD-3-Clause
+
+Pandas
+https://github.com/pandas-dev/pandas
+License: BSD‑3‑Clause
+https://opensource.org/licenses/BSD-3-Clause 
+Reddit
+GitHub
+
+Requests
+https://github.com/psf/requests
+License: Apache‑2.0
+https://www.apache.org/licenses/LICENSE-2.0/
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
